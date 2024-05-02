@@ -1,0 +1,116 @@
+.link0{
+    text-decoration: none ;
+    color: navajowhite;
+    margin: 30px 50px;
+    border: 1px;
+    background-color: black;
+    border-radius: 20px;
+    width: 100px;
+    height: 40px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+}
+
+.link0:hover {
+    color: rgb(70, 202, 151) ;
+    text-decoration: underline ;
+    text-decoration-color: blue ;
+    cursor: pointer;
+ }
+
+.link:hover {
+   color: rgb(70, 202, 151) ;
+   text-decoration: underline ;
+   text-decoration-color: blue ;
+   cursor: pointer;
+}
+
+.link:visited{
+    color: rgb(187, 28, 139);
+}
+
+.logo{
+    font-size: 30px;
+    text-decoration: underline;
+    margin: 0 30px;
+    font-weight: 600;    
+}
+
+nav{
+    border: 1px solid navajowhite ;
+    margin: 20px 50px;
+    border-radius: 50px;
+    width: calc(100% - 100px);
+    color: navajowhite;
+    background-color: #144169;
+    display: flex;
+    align-items: center;
+    height: 60px;
+}
+
+
+.left{
+    right: 70px;
+    bottom: 30px;
+}
+
+.Home{
+    justify-content: space-around;
+    display: flex;
+    align-items: center;
+}
+
+.rightpicture{
+    margin-right: 25%;
+    position:relative;
+    left: 700px;
+    bottom: 150px;
+
+}
+
+
+
+.prcards{
+    justify-content: space-around;
+    display: flex;
+    align-items: center;
+    margin: 50px;
+}
+
+.primage{
+    height: 460px;
+    width: 400px ;
+    background-color: #144169;
+    border-radius: 50px;
+
+}
+
+
+.achs{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-content: center;
+    margin: 100px;
+}
+
+.image{
+    height: 150px;
+    width: 100px ;
+    border-radius: 50px;
+    margin: 50px;
+}
+
+.achimage1{
+    height: 150px;
+    width: 100px;
+
+}
+
+   
+#myblog{
+        padding: 150px 0;
+    }
+    
+
